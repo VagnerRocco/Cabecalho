@@ -1,2 +1,2 @@
 # Cabecalho
-Cabeçalho com dia da semana e mes por extenso.
+Cabeçalho contendo a cidade (valor fixo) dia do mes (numeral), mes (por extenso), ano (numeral) e dia da semana (por extenso).
